@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=472d6795_002D9a4e_002D4518_002Dbbd8_002Db8f1e1f5b0c9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="XrmPlayTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::DEFE4169-4F08-443F-899A-FE6D645AFC71::.NETFramework,Version=v4.7.2::XrmPlay.XrmPlayTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fb5e004b_002D4c5f_002D4e02_002Daf81_002D75d2919413f5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="XrmPlayTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::DEFE4169-4F08-443F-899A-FE6D645AFC71::.NETFramework,Version=v4.7.2::XrmPlay.XrmPlayTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
