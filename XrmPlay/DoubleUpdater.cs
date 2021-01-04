@@ -15,13 +15,13 @@ namespace XrmPlay
             _service = service;
         }
 
-        public void UpdateWithTwoNumbers(int first, int second)
+        public void UpdateWithTwoNumbers(int firstNumber, int secondNumber)
         {
-            UpdateEntityContainingNumberToNumber(7, first);
-            UpdateEntityContainingNumberToNumber(first, second);
+            UpdateEntityContainingNumberToNumber(7, firstNumber);
+            UpdateEntityContainingNumberToNumber(firstNumber, secondNumber);
         }
 
-        private void UpdateEntityContainingNumberToNumber(int initialNumber, int number)
+        private void UpdateEntityContainingNumberToNumber(int initialNumber, int updatedNumber)
         {
             using (var context = new OrganizationServiceContext(_service))
             {
@@ -31,7 +31,7 @@ namespace XrmPlay
 
                 foreach (var entityToUpdate in returnedInitialEntities)
                 {
-                    UpdateEntityWithNumber(entityToUpdate, number);
+                    UpdateEntityWithNumber(entityToUpdate, updatedNumber);
                 }
             }
         }
