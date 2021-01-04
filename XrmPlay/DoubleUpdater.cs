@@ -15,10 +15,10 @@ namespace XrmPlay
             _service = service;
         }
 
-        public void UpdateWithTwoNumbers(int firstNumber, int secondNumber)
+        public void UpdateWithTwoNumbers(int firstNumber, int second)
         {
             UpdateEntityContainingNumberToNumber(7, firstNumber);
-            UpdateEntityContainingNumberToNumber(firstNumber, secondNumber);
+            UpdateEntityContainingNumberToNumber(firstNumber, second);
         }
 
         private void UpdateEntityContainingNumberToNumber(int initialNumber, int updatedNumber)

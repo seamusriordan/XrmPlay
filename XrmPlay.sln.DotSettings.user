@@ -4,7 +4,12 @@
     &lt;TestId&gt;xUnit::DEFE4169-4F08-443F-899A-FE6D645AFC71::.NETFramework,Version=v4.7.2::XrmPlay.XrmPlayTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fb5e004b_002D4c5f_002D4e02_002Daf81_002D75d2919413f5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="XrmPlayTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a1039dd5_002D1abe_002D4d0d_002Da4bc_002Dd3624fa9c67e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="XrmPlayTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::DEFE4169-4F08-443F-899A-FE6D645AFC71::.NETFramework,Version=v4.7.2::XrmPlay.XrmPlayTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fb5e004b_002D4c5f_002D4e02_002Daf81_002D75d2919413f5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="XrmPlayTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::DEFE4169-4F08-443F-899A-FE6D645AFC71::.NETFramework,Version=v4.7.2::XrmPlay.XrmPlayTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
